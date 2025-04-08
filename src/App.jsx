@@ -2,7 +2,6 @@
 import Navbar from "./component/Display/Navbar";
 import "./App.css";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
-import Home from "./pages/home";
 import Product from "./pages/Product";
 import About from "./pages/About";
 import Contact from "./pages/contact";
