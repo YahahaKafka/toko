@@ -2,9 +2,10 @@
 import Navbar from "./component/Display/Navbar";
 import "./App.css";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import Home from "./pages/Home";
 import Product from "./pages/Product";
 import About from "./pages/About";
-import Contact from "./pages/contact";
+import Contact from "./pages/Contact";
 import Footer from "./component/Display/Footer";
 import ProductDetail from "./component/Display/ProductDetail";
 import ScrollToTop from "./util/ScrollTop";
